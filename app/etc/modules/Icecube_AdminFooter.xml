@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Icecube_AdminFooter>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Icecube_AdminFooter>
+    </modules>
+</config>

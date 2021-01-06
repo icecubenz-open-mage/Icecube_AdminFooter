@@ -1,0 +1,4 @@
+app/code/community/Icecube/AdminFooter/                                 app/code/community/Icecube/AdminFooter/
+app/design/adminhtml/default/default/layout/icecube/admin_footer.xml     app/design/adminhtml/default/default/layout/icecube/admin_footer.xml
+app/design/adminhtml/default/default/template/icecube/admin_footer/     app/design/adminhtml/default/default/template/icecube/admin_footer/
+app/etc/modules/Icecube_AdminFooter.xml                                  app/etc/modules/Icecube_AdminFooter.xml
